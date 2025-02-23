@@ -1,4 +1,11 @@
 # Manual PIA VPN Connections
+FOR EDIT :
+run sh newWireguardConnect.sh
+to setup & configure everything.
+
+
+
+# Manual PIA VPN Connections
 
 This repository contains documentation on how to create native WireGuard and OpenVPN connections, and also on how to enable Port Forwarding in case you require this feature. You will find a lot of information below. However if you prefer quick test, here is the __TL/DR__:
 
