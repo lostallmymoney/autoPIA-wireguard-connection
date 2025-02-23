@@ -1,4 +1,4 @@
-# AUTO PIA VPN Connections
+# AUTO PIA VPN Connections (the fork's script)
 run sh newWireguardConnect.sh
 
 to setup & configure everything.
