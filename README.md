@@ -1,6 +1,8 @@
 # AUTO PIA VPN Connections
 FOR EDIT :
+
 run sh newWireguardConnect.sh
+
 to setup & configure everything.
 
 
